@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Hue Bridge IP Finder.exe
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Hue Bridge IP Finder.pdb
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\Hue Bridge IP Finder.exe
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\Hue Bridge IP Finder.pdb
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\charl\Documents\Visual Studio 2008\Projects\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Hue Bridge IP Finder.exe
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Hue Bridge IP Finder.pdb
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\Hue Bridge IP Finder.exe
+C:\Users\charl\Documents\Crestron\Modules\Hue Control\VS Console Tests\Hue Bridge IP Finder\Hue Bridge IP Finder\obj\Debug\Hue Bridge IP Finder.pdb
