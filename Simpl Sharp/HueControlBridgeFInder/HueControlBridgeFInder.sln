@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueControlBridgeFInder", "HueControlBridgeFInder\HueControlBridgeFInder.csproj", "{AA8FD871-CF2D-427D-97D3-D6896AE46ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8FD871-CF2D-427D-97D3-D6896AE46ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8FD871-CF2D-427D-97D3-D6896AE46ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8FD871-CF2D-427D-97D3-D6896AE46ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8FD871-CF2D-427D-97D3-D6896AE46ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
